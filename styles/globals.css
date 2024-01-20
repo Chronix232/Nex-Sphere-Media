@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+.title_gradient {
+    color: transparent;
+    background: linear-gradient(90deg, #00ffb8 2.34%, #e166ff 100.78%);
+    -webkit-background-clip: text;
+}
+
+.bg-blue-gradient {
+    background: #00ffe72b;
+    filter: blur(190px);
+}
+
+.bg-pink-gradient {
+    background: #e166ff;
+    filter: blur(190px);
+}
+
+.post-banner-bg {
+    background: linear-gradient(45deg, #162c60 2.34%, #8a5aa9 100.78%);
+}
