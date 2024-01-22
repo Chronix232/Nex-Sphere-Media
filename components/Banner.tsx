@@ -17,7 +17,7 @@ const Banner = () => {
             <h2 className="mt-5 md:mt-0.5 text-white">
                Welcome to{' '}
                <span className="underline decoration-4 decoration-lizard_green">
-                  Every Philosopher's{' '}
+                  Every Philosopher's Favourite's{' '}
                </span>
                   Media!
             </h2>
